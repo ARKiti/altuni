@@ -1,0 +1,253 @@
+/*                    ALTUNI                    */
+/*                  by ASU!iti                  */
+
+/*                 css settings                 */
+
+/*              all pages settings              */
+
+.body
+{
+	background: #9a9a9a;
+}
+.header
+{
+	max-width: 1500px;
+	margin: 0 auto;
+	margin-bottom: 15px;
+}
+
+/*                header settings                */
+
+.head-menu
+{
+	border: 5px #000000 solid;
+	border-radius: 22px;
+	background-color: #555555;
+}
+.head-menu-in
+{
+	display: flex;
+	padding: 5px;
+}
+	/*               logo settings                */
+
+	.main-logo-in
+	{
+		padding: 5px;
+	}
+	.main-logo
+	{
+		border: 4px #000000 solid;
+		background-color: #999999;
+		border-radius: 15px;
+	}
+	.ALTUNI-main-logo_img_
+	{
+		height: 115px;
+	}
+	.ALTUNI-text
+	{
+		font-size: 22px;
+		margin: 0 0;
+	}
+
+	/*               menu settings                */
+
+	.main-menu
+	{
+		border: 4px #000000 solid;
+		background-color: #999999;
+		border-radius: 15px;
+		margin-left: 6px;
+	}
+	.main-menu-list
+	{
+		list-style: none;
+		display: flex;
+	}
+	.main-menu-list-bases
+	{
+		text-decoration: none;
+		color: #45105d;
+		font-size: 40px;
+		margin-left: 12px;
+		padding: 4px;
+		border: 5px #000000 solid;
+		border-radius: 10px;
+		background-color: #818181;
+	}
+
+/*              ASU!iti settings                */
+
+.asu_base-main-
+{
+	max-width: 1500px;
+	margin: 0 auto;	
+}
+	/*              section 1                   */
+
+	.asu_section1
+	{
+		border: 6px #000000 solid;
+		border-radius: 15px;
+		background-color: #555555;
+	}
+	.asu_s1-info
+	{
+		display: flex;
+	}
+	.asu_logo
+	{
+		height: 200px;
+		padding: 12px;
+	}
+	.asu_s1-info-text
+	{
+		font-size: 23px;
+		margin: 0 0;
+		padding: 17px;
+	}
+
+/*               editors settings               */
+
+.editors_base-main-
+{
+	max-width: 1500px;
+	margin: 0 auto;
+}
+
+	/*               section 1                  */
+
+	.editors_logos-all
+	{
+		border: 7px #000000 solid;
+		border-radius: 18px;
+		margin-left: 20px;
+	}
+	.editors_section1-logos-
+	{
+
+	}
+	.editors_logos
+	{
+		display: flex;
+	}
+	.editors_logo-settings
+	{
+		height: 190px;
+		padding: 5px;
+	}
+	.editors_logos-asuiti-text
+	{
+		margin: 0 0;
+		font-size: 25px;
+		text-decoration: none;
+		color: #2d2d2d;
+		border: 9px #000000 solid;
+		border-radius: 12px;
+		padding: 5px;
+		margin-left: 46px;
+	}
+	.editors_logos-FS-text
+	{
+		margin: 0 0;
+		font-size: 16.5px;
+		text-decoration: none;
+		color: #2d2d2d;
+		border: 9px #000000 solid;
+		border-radius: 12px;
+		padding: 5px;
+	}
+
+/*              main page settings              */
+
+.main_base-main-
+{
+	max-width: 1500px;
+	margin: 0 auto;	
+}
+
+	/*              section 1                   */
+
+	.main_section1
+	{
+	border: 5px #000000 solid;
+	border-radius: 22px;
+	background-color: #555555;
+	}
+	.main_logo
+	{
+		margin: 10px;
+		border: 11px #000000 solid;
+		background-color: #999999;
+		border-radius: 30px;
+		padding: 10px;
+	}
+	.main_logo-text
+	{
+		font-size: 48px;
+		margin: 0 0;
+	}
+	.main_logo_out
+	{
+		border: 6px #000000 solid;
+		background-color: #999999;
+		border-radius: 37px;
+		display: flex;
+		margin: 15px;
+	}
+	.main_img-1
+	{
+		height: 250px;
+	}
+	.main_ALTUNI-text
+	{
+		font-size: 30px;
+	}
+
+/*                news settings                 */
+
+.news_base-main-
+{
+	max-width: 1500px;
+	margin: 0 auto;
+}
+
+	/*              section 1                   */
+
+	/* потом */
+
+	/*              section 2                   */
+
+	.news_section2
+	{
+		border: 5px #000000 solid;
+		border-radius: 22px;
+		background-color: #555555;
+	}
+	.news_section2-news-
+	{
+		background-color: #ffffff;
+		border: 4px #000000 solid;
+		border-radius: 15px;
+		margin: 10px;
+	}
+	.news_section2-news_host-
+	{
+		background-color: #a1a1a1;
+		border: 4px #000000 solid;
+		border-radius: 15px;
+		margin: 10px;
+	}
+	.news_news-text-
+	{
+		font-size: 25px;
+		margin: 0 0;
+		padding: 5px;
+	}
+	.news_news-text_host-
+	{
+		font-size: 37px;
+		margin: 0 0;
+		padding: 5px;
+	}
